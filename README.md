@@ -39,7 +39,7 @@ This analysis helped me:
 ### Download and Explore
 For a fully interactive experience, download the Power BI file:
 
-[📥 Download Job_Search_Analysis.pbix](PowerBI/Job_Search_Analysis.pbix) *(Requires Power BI Desktop)*
+[📥 Download Job_Search_Analysis.pbix](PowerBI/Job_Search_Analysis.pbix) *(Waiting for the Tenant Mail, Kindly Support )*
 
 ### What You Can Do:
 1. **Filter data** by month, location, platform
