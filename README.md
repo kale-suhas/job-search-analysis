@@ -29,4 +29,4 @@ This analysis helped me:
 - Apply at optimal times
 - Ultimately get more interview calls
 
-📫 **Connect with me:** [LinkedIn Profile](https://www.linkedin.com/in/suhas-kale-/)]
+📫 **Connect with me:** [LinkedIn Profile](https://www.linkedin.com/in/suhas-kale-/)
