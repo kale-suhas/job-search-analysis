@@ -14,6 +14,8 @@ I applied data analytics techniques to my own job search of 250+ applications to
 |------|-------------|
 | [Job_Applications.csv](Data/Job_Applications.csv) | Cleaned dataset of all applications |
 | [Dashboard.png](PowerBI/Dashboard.png) | Power BI dashboard screenshot |
+| [Visualization1.png](PowerBI/December_Job_Search.png) | Power BI dashboard screenshot |
+| [Visualization2.png](PowerBI/Fresher_Jobs.png) | Power BI dashboard screenshot |
 | [Dashboard.pdf](PowerBI/Dashboard.pdf) | Complete Power BI report |
 
 ## 🛠️ Tools & Skills Demonstrated
